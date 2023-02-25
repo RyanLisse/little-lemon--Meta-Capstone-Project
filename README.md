@@ -30,3 +30,4 @@ The following technologies were used to build this project:
 - React Hook Form: A library for building performant forms in React
 
 I chose these technologies as they are widely used in the industry, easy to learn and use, and work well together to build high-quality, scalable web applications.
+If you have any questions, feel free to reach out to me at ryan@ryanLisse.com
